@@ -1,8 +1,8 @@
 <template>
     <div class="flex flex-col gap-5">
-        <phase-one-dashboard-dash-board-one />
-        <phase-one-dashboard-dash-board-two />
-    </div>
+   <phase-one-compliance-view-compliance-one/>
+   <phase-one-compliance-view-compliance-two/>
+   </div>
 </template>
 <script setup>
 definePageMeta({
